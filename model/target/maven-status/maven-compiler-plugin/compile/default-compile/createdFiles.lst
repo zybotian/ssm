@@ -1,1 +1,11 @@
+org/oasis/model/CsCase.class
+org/oasis/model/CsOvdReason.class
 org/oasis/model/SexEnum.class
+org/oasis/model/CsCaseExample$Criteria.class
+org/oasis/model/CsCaseExample$Criterion.class
+org/oasis/model/CsCaseExample.class
+org/oasis/model/CsOvdReasonExample$GeneratedCriteria.class
+org/oasis/model/CsOvdReasonExample.class
+org/oasis/model/CsCaseExample$GeneratedCriteria.class
+org/oasis/model/CsOvdReasonExample$Criterion.class
+org/oasis/model/CsOvdReasonExample$Criteria.class

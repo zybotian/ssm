@@ -12,8 +12,8 @@
         <module>iface</module>
         <module>model</module>
         <module>server</module>
+        <module>dao</module>
     </modules>
-
 
     <build>
         <plugins>

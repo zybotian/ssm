@@ -2,11 +2,13 @@ package org.oasis.service;
 
 import org.oasis.iface.HelloIface;
 import org.oasis.model.SexEnum;
+import org.springframework.stereotype.Service;
 
 /**
  * @author tianbo
  * @date 2019-03-06
  */
+@Service
 public class HelloService implements HelloIface {
 
     @Override
